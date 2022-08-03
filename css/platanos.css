@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(230, 238, 255);
+    font-family: 'Lucida Console', monospace, 'Monaco', Georgia;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    background-color: whitesmoke;
+    text-align: center;
+    color: rgb(33, 54, 138)
+}
+
+div {
+    background-color: aliceblue;
+}
+
+.head {
+    color: rgb(122, 148, 162);
+}
+
+a {
+    color: rgb(90, 157, 34);
+}
+
+p,
+ol,
+ul {
+    color: rgb(72, 103, 191)
+}
