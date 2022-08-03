@@ -1,6 +1,6 @@
 body {
     background-color: rgb(230, 238, 255);
-    font-family: 'Lucida Console', 'Monaco', Georgia;
+    font-family: 'Lucida Console', monospace, 'Monaco', Georgia;
 }
 
 img {
@@ -18,7 +18,6 @@ img {
 
 a {
     color: green;
-    font-weight: 800px;
 }
 
 h1 {

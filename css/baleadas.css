@@ -1,6 +1,7 @@
 body {
     background-color: rgb(230, 238, 255);
-    font-family: 'Lucida Console', 'Monaco', Georgia;
+    font-family: 'Lucida Console',
+        'Monaco', Georgia;
 }
 
 img {
@@ -9,4 +10,17 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+    background-color: white;
+}
+
+a {
+    color: red;
+}
+
+div {
+    background-color: white;
 }
